@@ -104,5 +104,3 @@ $('a.linkNav').click(function(e){
 	$(tabButton).fadeToggle("slow");
 });
 </script>
-</body>
-</html>
