@@ -1,0 +1,6 @@
+<p> Your portfolio must contain some traditional work, such as scans from your sketchbook, life drawing, perspective, or other items that would  us of your creative process. Where appropriate, your portfolio  should include some drawings from observation (made from direct  observation rather than from imagination or photographs).</p>
+<p>The portfolio must contain between 10-20 examples of original work, depending on scope and complexity. Include only original work that showcases your creativity, as well as the  skills and media you have learned. Your work  needs to highlight your ability  to communicate ideas.</p>
+<p>You will be required to submit a portfolio for review three times before your gradaute.</p>
+<p>The First portfolio review is after your fist year, and is submitted in the final week of the MAAA111 2d Animation class.</p>
+<p>The Second portfolio review is after your second year, and is submitted in the final week of the MA3321 Portfolio Fundamentals class for Media Arts and Animation Students.</p>
+<p>The Third</p>

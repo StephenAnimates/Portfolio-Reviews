@@ -1,0 +1,4 @@
+<p>Photographs must be presented professionally. Always show your best work. Plan your portfolio carefully. A good portfolio should have continuity and provide viewers with a clear idea of your vision. It should be organized by subjects or different photographic styles. Horizontal and vertical images, as well as different sized images should be organized and grouped separately. Black and white images and color images should also be grouped separately for easier  viewing.</p>
+<p>You will be required to submit a portfolio for review two times before you gradaute.</p>
+<p>The First portfolio review is after your fist year, and is submitted in the final week of .</p>
+<p>The Second portfolio review is your final quarter, and is submitted <strong>name the class</strong> class.</p>
