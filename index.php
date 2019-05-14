@@ -1,4 +1,25 @@
 <?PHP
+
+/*
+Portfolio Reviews
+https://github.com/pixonti
+
+Copyright (C) 2018 Stephen Studyvin
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as published
+    by the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+    GNU Affero General Public License for more details.
+
+    You should have received a copy of the GNU Affero General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ */
+
 include_once 'include/processes.php';
 $Login_Process = new Login_Process;
 $Login_Process->check_login($_GET['page']);
@@ -19,7 +40,7 @@ if (isset($_POST['process'])) {
 include ("include/inc_header.php");
 ?>
 
-<title>AICASAC Portfolio Review Website - Login Script</title>
+<title>Portfolio Review Website - Login</title>
 <link href="include/style.css" rel="stylesheet" type="text/css">
 
 <?PHP include ("include/inc_jquery.php");?>
@@ -31,7 +52,7 @@ include ("include/inc_header.php");
 <div class="column">
 <div class="ui segment">
 
-<h2 class="ui center header">AI Review Website</h2>
+<h2 class="ui center header">Portfolio Review Website</h2>
 <div class="ui clearing divider"></div>
 
 <div class="ui top attached tabular menu">
@@ -322,5 +343,4 @@ $(document).ready(function(){
 });
 
 </script>
-</body>
-</html>
+<?PHP include ("include/inc_header.php"); ?>
