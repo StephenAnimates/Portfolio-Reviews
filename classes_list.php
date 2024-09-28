@@ -1,11 +1,9 @@
 <?PHP
 require_once('Connections/classList.php');
-
 $query_RS_classes = "SELECT `classSchedule`.`classes`.*, `classSchedule`.`progs`.* FROM `classSchedule`.`classes`, `classSchedule`.`progs` WHERE `progs`.`class_id` = `classes`.`id_classes`";
 $RS_classes = mysql_query($query_RS_classes, $studentReviews) or die(mysql_error());
 $row_RS_classes = mysql_fetch_assoc($RS_classes);
 $totalRows_RS_classes = mysql_num_rows($RS_classes);
-
 ?>
 
 <!doctype html>
@@ -102,5 +100,4 @@ $(document).ready(function() {
     </tfoot>
 </table>
 </div>
-</body>
-</html>
+<?PHP include ("include/inc_footer.php"); ?>

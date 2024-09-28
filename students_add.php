@@ -680,5 +680,4 @@ function setPrefs() {
 <?php
 mysql_free_result($RS_students);
 ?>
-</body>
-</html>
+<?PHP include ("include/inc_footer.php"); ?>

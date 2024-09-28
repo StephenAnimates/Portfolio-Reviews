@@ -2,9 +2,9 @@
 
 /*
 Portfolio Reviews
-https://github.com/pixonti
+https://github.com/StephenAnimates
 
-Copyright (C) 2018 Stephen Studyvin
+Copyright (C) 2014-2024 Stephen Studyvin
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published
@@ -343,4 +343,4 @@ $(document).ready(function(){
 });
 
 </script>
-<?PHP include ("include/inc_header.php"); ?>
+<?PHP include ("include/inc_footer.php"); ?>
